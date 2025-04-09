@@ -3,7 +3,6 @@ body {
   margin: 0;
 }
 
-/*stylesss*/
 body::before {
   content: " ";
   position: fixed;
